@@ -5,7 +5,7 @@ body{
     font-family: 'Titillium Web', sans-serif;
     background-image: url("bg_final.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-attachment: fixed;
     background-size: cover;
     background-blend-mode: lighten;
 }
